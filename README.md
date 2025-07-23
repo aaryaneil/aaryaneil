@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ticketfaster](https://github.com/aaryaneil/ticketfaster)
 
-- 🌱 I’m currently learning **Kubernetes, Ansible**
+- 🌱 I’m currently learning **AI, AIOps and MLOps**
 
 - 👯 I’m looking to collaborate on [Furniture-AI](https://github.com/aaryaneil/Furniture-AI)
 
